@@ -94,4 +94,55 @@ header {
 
 /* tag prima sezione main */
 
+h1 {
+    text-align: left;
+    padding-top: 100px;
+    margin-left: 13%;
+    margin-right: 10%;
+    font-size: 95px;
+}
+
 /* classi prima sezione main */
+
+.contenitore1 {
+    background-color: #b4d0e7;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.paragrafo {
+    width: 600px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 13%;
+}
+
+.p-1 {
+    font-size: 25px;
+    margin-bottom: 70px;
+
+}
+
+.prova {
+    font-size: 25px;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: #0061ff;
+    padding: 15px;
+}
+
+.annulla {
+    display: block;
+    margin-top: 40px;
+    font-size: 20px;
+
+}
+
+.jumbo {
+    float: left;
+    margin-top: 100px;
+    margin-left: 80px;
+    height: 550px;
+}
+
