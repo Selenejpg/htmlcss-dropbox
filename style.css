@@ -1,0 +1,97 @@
+/* TODO generali */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* TODO sezioni principali */
+
+body {
+    width: 100vw; 
+    display: inline-block;
+}
+
+/* TODO tag sezione header */
+
+header {
+    padding-top: 40px;
+    padding-bottom: 15px;
+    line-height: 38px
+}
+
+/* TODO classi sezione header */
+
+.logodrop {
+    float: left; 
+    display: table-cell;
+    margin-left: 40px;
+}
+
+.logoheader {
+    height: 35px;
+}
+
+.menuheader {
+    float: left; 
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 20px;
+    margin-left: 56px;
+}
+
+.listitem {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.listauno {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.listitem2 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.listadue {
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+
+.margin {
+    margin-left: 695px;
+}
+
+.button1 {
+    float: right; 
+    display: table-cell;
+    vertical-align: middle;
+    margin-right: 33px;
+    font-size: 20px;
+}
+
+.inizia {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: #0061ff;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+/* tag prima sezione main */
+
+/* classi prima sezione main */
