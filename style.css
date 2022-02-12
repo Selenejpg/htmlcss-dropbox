@@ -33,7 +33,7 @@ header {
 .logodrop {
     float: left; 
     display: table-cell;
-    margin-left: 40px;
+    margin-left: 90px;
 }
 
 .logoheader {
@@ -71,14 +71,14 @@ header {
 }
 
 .margin {
-    margin-left: 695px;
+    margin-left: 585px;
 }
 
 .button1 {
     float: right; 
     display: table-cell;
     vertical-align: middle;
-    margin-right: 33px;
+    margin-right: 95px;
     font-size: 20px;
 }
 
