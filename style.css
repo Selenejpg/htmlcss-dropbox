@@ -92,7 +92,7 @@ header {
     padding-right: 30px;
 }
 
-/* tag prima sezione main */
+/* TODO tag prima sezione main */
 
 h1 {
     text-align: left;
@@ -102,7 +102,7 @@ h1 {
     font-size: 95px;
 }
 
-/* classi prima sezione main */
+/* TODO classi prima sezione main */
 
 .contenitore1 {
     background-color: #b4d0e7;
@@ -114,7 +114,7 @@ h1 {
     background-color: white;
     display: block;
     margin-top: 540px;
-    height: 640px; 
+    height: 140px;  
     width: 100%;
 }
 
@@ -159,6 +159,50 @@ h1 {
     margin-top: 25px;
 }
 
-/* tag seconda sezione main */
+/* TODO tag seconda sezione main */
 
-/* classi seconda sezione main */
+h2 {
+    text-align: center;
+    font-size: 52px;
+    margin-top: 70px;
+}
+
+hr {
+    color: #f7f7f8;
+}
+
+/* TODO classi seconda sezione main */
+
+.imput-1 {
+    display: inline-block;
+    margin-left: 24%;
+    margin-right: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+
+.imput-2 {
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.containers {
+    height: 600px;
+    margin-left: 24%;
+}
+
+.con {
+    width: 315px;
+    display: inline-block;
+    text-align: left;
+    margin-right: 100px; 
+    border: 3px solid #f7f7f8;
+}
+
+.top {
+    padding: 10px;
+    margin-left: 105px;
+}
+
