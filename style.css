@@ -107,7 +107,15 @@ h1 {
 .contenitore1 {
     background-color: #b4d0e7;
     margin-left: 2%;
-    margin-right: 2%;
+    margin-right: 2%; 
+}
+
+.background {
+    background-color: white;
+    display: block;
+    margin-top: 550px;
+    height: 600px; 
+    width: 100%;
 }
 
 .paragrafo {
@@ -142,7 +150,7 @@ h1 {
 .jumbo {
     float: left;
     margin-top: 100px;
-    margin-left: 80px;
+    margin-left: 80px; 
     height: 550px;
 }
 
