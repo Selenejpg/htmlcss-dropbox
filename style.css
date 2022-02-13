@@ -113,15 +113,15 @@ h1 {
 .background {
     background-color: white;
     display: block;
-    margin-top: 550px;
-    height: 600px; 
+    margin-top: 540px;
+    height: 640px; 
     width: 100%;
 }
 
 .paragrafo {
     width: 600px;
     float: left;
-    margin-top: 100px;
+    margin-top: 70px;
     margin-left: 13%;
 }
 
@@ -149,8 +149,16 @@ h1 {
 
 .jumbo {
     float: left;
-    margin-top: 100px;
+    margin-top: 70px;
     margin-left: 80px; 
     height: 550px;
 }
 
+.fa-arrow-down {
+    font-size: 55px;
+    margin-top: 25px;
+}
+
+/* tag seconda sezione main */
+
+/* classi seconda sezione main */
