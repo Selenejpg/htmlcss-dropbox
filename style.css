@@ -189,13 +189,14 @@ hr {
 
 .containers {
     margin-left: 24%;
-    margin-right: 24px;
+    margin-right: 24px; 
 }
 
 .con {
     width: 315px;
     text-align: left;
-    margin-right: 80px;
+    width: calc(60% / 3);
+    margin-right: 80px; 
     border: 3px solid #f7f7f8;
     float: left;
 }
