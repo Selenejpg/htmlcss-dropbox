@@ -25,7 +25,9 @@ body {
 header {
     padding-top: 40px;
     padding-bottom: 15px;
-    line-height: 38px
+    line-height: 38px;
+    position: fixed;
+    background-color: white;
 }
 
 /* TODO classi sezione header */
@@ -96,7 +98,7 @@ header {
 
 h1 {
     text-align: left;
-    padding-top: 100px;
+    padding-top: 230px;
     margin-left: 13%;
     margin-right: 10%;
     font-size: 95px;
@@ -107,16 +109,13 @@ h1 {
 .contenitore1 {
     background-color: #b4d0e7;
     margin-left: 2%;
-    margin-right: 2%; 
+    margin-right: 2%;
 }
 
 .background {
     background-color: white;
     display: block;
-    margin-top: 540px;
-    height: 140px;  
-    width: 100%;
-}
+}  
 
 .paragrafo {
     width: 600px;
@@ -149,7 +148,7 @@ h1 {
 
 .jumbo {
     float: left;
-    margin-top: 70px;
+    margin-top: 70px; 
     margin-left: 80px; 
     height: 550px;
 }
@@ -189,16 +188,16 @@ hr {
 }
 
 .containers {
-    height: 600px;
     margin-left: 24%;
+    margin-right: 24px;
 }
 
 .con {
     width: 315px;
-    display: inline-block;
     text-align: left;
-    margin-right: 100px; 
+    margin-right: 80px;
     border: 3px solid #f7f7f8;
+    float: left;
 }
 
 .top {
