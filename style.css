@@ -13,195 +13,38 @@
     clear: both;
 }
 
-/* TODO sezioni principali */
-
 body {
-    width: 100vw; 
-    display: inline-block;
-}
-
-/* TODO tag sezione header */
-
-header {
-    padding-top: 40px;
-    padding-bottom: 15px;
-    line-height: 38px;
+    width: 100vw;
     position: fixed;
-    background-color: white;
 }
 
-/* TODO classi sezione header */
 
-.logodrop {
-    float: left; 
-    display: table-cell;
-    margin-left: 90px;
-}
+/* TODO tag header */
 
-.logoheader {
-    height: 35px;
-}
+/* TODO classi header */
 
-.menuheader {
-    float: left; 
-    display: table-cell;
+.container1 {
+    width: 25%;
+    float: left;
     vertical-align: middle;
-    font-size: 20px;
-    margin-left: 56px;
 }
 
-.listitem {
-    display: inline-block;
-    margin-right: 50px;
+.container2 {
+    width: 25%;
+    float: right;  
+    vertical-align: middle;
 }
 
-.listauno {
+.list {
     list-style-type: none;
+    color: black;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.h-1 {
     text-decoration: none;
     color: black;
-}
-
-.listitem2 {
     display: inline-block;
-    margin-right: 50px;
-}
-
-.listadue {
-    list-style-type: none;
-    text-decoration: none;
-    color: black;
-}
-
-.margin {
-    margin-left: 585px;
-}
-
-.button1 {
-    float: right; 
-    display: table-cell;
     vertical-align: middle;
-    margin-right: 95px;
-    font-size: 20px;
 }
-
-.inizia {
-    list-style-type: none;
-    text-decoration: none;
-    color: white;
-    background-color: #0061ff;
-    padding: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
-}
-
-/* TODO tag prima sezione main */
-
-h1 {
-    text-align: left;
-    padding-top: 230px;
-    margin-left: 13%;
-    margin-right: 10%;
-    font-size: 95px;
-}
-
-/* TODO classi prima sezione main */
-
-.contenitore1 {
-    background-color: #b4d0e7;
-    margin-left: 2%;
-    margin-right: 2%;
-}
-
-.background {
-    background-color: white;
-    display: block;
-}  
-
-.paragrafo {
-    width: 600px;
-    float: left;
-    margin-top: 70px;
-    margin-left: 13%;
-}
-
-.p-1 {
-    font-size: 25px;
-    margin-bottom: 70px;
-
-}
-
-.prova {
-    font-size: 25px;
-    list-style-type: none;
-    text-decoration: none;
-    color: white;
-    background-color: #0061ff;
-    padding: 15px;
-}
-
-.annulla {
-    display: block;
-    margin-top: 40px;
-    font-size: 20px;
-
-}
-
-.jumbo {
-    float: left;
-    margin-top: 70px; 
-    margin-left: 80px; 
-    height: 550px;
-}
-
-.fa-arrow-down {
-    font-size: 55px;
-    margin-top: 25px;
-}
-
-/* TODO tag seconda sezione main */
-
-h2 {
-    text-align: center;
-    font-size: 52px;
-    margin-top: 70px;
-}
-
-hr {
-    color: #f7f7f8;
-}
-
-/* TODO classi seconda sezione main */
-
-.imput-1 {
-    display: inline-block;
-    margin-left: 24%;
-    margin-right: 40px;
-    margin-top: 60px;
-    margin-bottom: 60px;
-    font-size: 20px;
-}
-
-.imput-2 {
-    display: inline-block;
-    font-size: 20px;
-    margin-top: 30px;
-}
-
-.containers {
-    margin-left: 24%;
-    margin-right: 24px; 
-}
-
-.con {
-    text-align: left;
-    width: calc(60% / 3);
-    margin-right: 80px; 
-    border: 3px solid #f7f7f8;
-    float: left;
-}
-
-.top {
-    padding: 10px;
-    margin-left: 105px;
-}
-
