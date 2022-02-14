@@ -84,7 +84,7 @@ header {
 /* TODO tag prima sezione main */
 
 h1 {
-   padding-top: 11%;
+   padding-top: 10%;
    margin-right: 13%;
    margin-left: 13%;;
    text-align: left;
@@ -96,8 +96,7 @@ h1 {
 
 .mainuno {
     background-color: #b4d0e7;
-    margin-bottom: -80px;
-    height: 700px;
+    height: 690px;
 }
 
 .p-1{
