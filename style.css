@@ -15,36 +15,66 @@
 
 body {
     width: 100vw;
-    position: fixed;
 }
-
 
 /* TODO tag header */
 
+header {
+    width: 100%;
+    position: fixed;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 /* TODO classi header */
 
-.container1 {
-    width: 25%;
+.conimg {
     float: left;
-    vertical-align: middle;
+    padding-top: 8px;
+}
+
+
+.container1 {
+    float: left;
+    padding-top: 8px;
 }
 
 .container2 {
-    width: 25%;
-    float: right;  
-    vertical-align: middle;
+    float: right;   
+}
+
+.logo {
+    display: inline-block;
 }
 
 .list {
+    display: inline-block; 
     list-style-type: none;
+    margin-top: 1%;
     color: black;
+}
+
+.h-0 {
     display: inline-block;
-    vertical-align: middle;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: black;
 }
 
 .h-1 {
-    text-decoration: none;
-    color: black;
     display: inline-block;
-    vertical-align: middle;
+    text-decoration: none;
+    margin-right: 20px;
+    color: black;
+}
+
+.inizia {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #0061ff;
 }
