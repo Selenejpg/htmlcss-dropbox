@@ -22,10 +22,11 @@ body {
 header {
     width: 100%;
     position: fixed;
-    padding-left: 25px;
-    padding-right: 25px;
+    padding-left: 30px;
+    padding-right: 20px;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-color: white;
 }
 
 /* TODO classi header */
@@ -42,7 +43,7 @@ header {
 }
 
 .container2 {
-    float: right;   
+    float: right;
 }
 
 .logo {
@@ -77,4 +78,38 @@ header {
     padding-top: 8px;
     padding-bottom: 8px;
     background-color: #0061ff;
+    color: white;
+}
+
+/* TODO tag prima sezione main */
+
+h1 {
+   padding-top: 11%;
+   margin-right: 13%;
+   margin-left: 13%;;
+   text-align: left;
+   font-size: 65px;
+   
+}
+
+/* TODO classi prima sezione main */
+
+.mainuno {
+    background-color: #b4d0e7;
+    margin-bottom: -80px;
+}
+
+.p-1{
+   width: 30%;
+   margin-left: 13%;
+   margin-top: 3%;
+   float: left;
+   font-size: 18px;
+}
+
+.jumbo {
+    float: left;
+    width: 50%;
+    margin-left: 4%;
+    margin-top: 3%;
 }
