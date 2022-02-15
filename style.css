@@ -130,7 +130,7 @@ h1 {
     padding: 15px;
 }
 
-/* TODO tag/id seconda sezione main */
+/* TODO tag seconda sezione main */
 
 hr {
     color: #ececed;
@@ -153,18 +153,14 @@ h3 {
 .colonna {
     float: left;
     width: calc(85% / 3);
-    margin-right: 5%;
-    padding-bottom: 10%;
-    border: 3px solid #ececed;
-}
-
-.uno {
-    padding-bottom: 155px;
+    height: 1000px;
+    margin-right: 5%;  
+    border: 3px solid #ececed; 
 }
 
 .piano {
     font-size: 30px;
-    margin-top: 15%;
+    margin-top: 12%;
 }
 
 .input {
@@ -234,4 +230,59 @@ h3 {
 
 .fa-circle-check {
     color: #0061ff;
+}
+
+/* TODO tag terza sezione main */
+
+h4 {
+    margin-bottom: 2%;
+    font-size: 20px;
+}
+
+/* TODO classi terza sezione main */
+
+.maintre {
+    margin: auto; 
+    margin-top: 2%;
+    max-width: 1080px; 
+    width: 85%;
+    border: 3px solid #ececed;
+}
+
+.minihead {
+    text-align: center;
+    padding: 10px; 
+}
+
+.floatl {
+    float: left;
+}
+
+.floatr {
+    float: right;
+}
+
+.contatta {
+    display: block;
+}
+
+.ufficio {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #0061ff;
+    margin-top: 15px;
+    padding-left: 37px;
+    padding-right: 37px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+
+.pad {
+    padding: 25px;  
+}
+
+.par {
+    margin-top: 30px;
 }
