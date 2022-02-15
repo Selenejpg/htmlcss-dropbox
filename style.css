@@ -276,7 +276,6 @@ h4 {
     padding-right: 37px;
     padding-top: 8px;
     padding-bottom: 8px;
-
 }
 
 .pad {
@@ -285,4 +284,26 @@ h4 {
 
 .par {
     margin-top: 30px;
+}
+
+/* TODO tag quarta sezione main */
+
+
+/* TODO classi quarta sezione main */
+
+.mainquattro {
+    margin: auto; 
+    width: 100%;
+}
+
+.imgpartner {
+    float: left;
+}
+
+.partner {
+    height: 300px;
+}
+
+.p-3 {
+    float: right;
 }
