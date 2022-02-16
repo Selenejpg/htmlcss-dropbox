@@ -456,7 +456,7 @@ h6 {
     width: 50%; 
     filter: invert(1); 
     max-width: 100%;
-    display: inline-block;
+    display: inline;
     vertical-align: middle;
 }
 
@@ -580,4 +580,52 @@ h6 {
 
 .lorem {
     display: none;
+}
+
+
+/* TODO classi footer */
+
+footer {
+    width: 100%;
+    display: block;
+    background-color: black;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.footer2 {
+    margin-bottom: 2%;
+    display: inline-block;
+    margin-left: 7%;
+}
+
+.footer1 {
+    display: inline-block;
+    margin-left: 19%;
+    padding-bottom: 6%;
+}
+
+
+.linkfooter{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 10px;
+    color: white;
+}
+
+.titolofooter {
+    color: white;
+    margin-bottom: 1%;
+}
+
+.footer1 {
+    border-bottom: 1px solid white;
+}
+
+.italiano {
+    color: white;
+    margin-left: 19%;
+    margin-top: 3%;
+    font-size: 9px;
 }
