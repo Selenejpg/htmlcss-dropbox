@@ -229,7 +229,7 @@ h3 {
 
 .border {
     padding-bottom: 25px;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid grey; 
 }
 
 .fa-circle-check {
@@ -332,7 +332,7 @@ h5 {
     font-size: 15px;
 }
 
-.bottone {
+.bottone1 {
     text-decoration: none;
     color: black;
     border: 1px solid black;
@@ -392,7 +392,7 @@ h6 {
 
 
 
-/* TODO classi qsesta sezione main */
+/* TODO classi sesta sezione main */
 
 .mainsei {
     display: inline-block;
@@ -430,7 +430,7 @@ h6 {
     width: 30%;    
 }
 
-.right {
+.right1 {
     float: right;
     height: 30vw;
     width: 30%;  
