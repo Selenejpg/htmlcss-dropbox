@@ -438,7 +438,7 @@ h6 {
 
 .biggersquare {
     float: left; 
-    width: calc(100% - 60vw);
+    width: calc(100% - 65vw);
     height: 30vw;
     overflow-y: auto;
 }
@@ -461,7 +461,14 @@ h6 {
 }
 
 .bigtitolo {
-    width: 40%;
+    width: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.sendhelp {
+    margin-bottom: 5%;
+    font-size: 15px;
 }
 
 .one {
@@ -495,4 +502,44 @@ h6 {
 
 .eight {
     background-color: #ffd830;
+}
+
+/* TODO classi settima sezione main */
+
+.mainsette {
+    margin: auto; 
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    margin-right: 15%;
+    padding-left: 20%;
+    background-color: #b4d0e7;
+}
+
+.business {
+    font-size: 30px;
+    color: #61082b;
+}
+
+.azienda {
+    width: calc(80% - 40%);
+    float: left;
+    margin-left: 2%;
+}
+
+.p-4 {
+    width: calc(80% - 40%);
+    float: left;
+    padding: 25px;
+}
+
+.bottone {
+    text-decoration: none;
+    background-color: white;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-right: 2%;
 }
