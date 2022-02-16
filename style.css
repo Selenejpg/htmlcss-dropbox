@@ -543,3 +543,41 @@ h6 {
     padding-right: 40px;
     margin-right: 2%;
 }
+
+/* TODO classi ottava sezione main */
+
+.mainotto {
+    width: 100%;
+    margin-bottom: 8%;
+}
+
+.differenza {
+    margin-right: 22%;
+    margin-left: 22%;
+}
+
+.advanced {
+    margin-bottom: 3%;
+}
+
+.black1 {
+    border: 1px solid grey;
+    margin-bottom: 3%;
+}
+
+.frequenti {
+    margin-left: 22%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-size: 25px;
+}
+
+.entity {
+    float: right;
+    font-size: 20px;
+    margin-top: -1%;
+}
+
+.lorem {
+    display: none;
+}
