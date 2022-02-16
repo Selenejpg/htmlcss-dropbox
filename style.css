@@ -353,12 +353,12 @@ h6 {
 .maincinque {
     width: 100%;
     max-width: 100%;
-    margin-left: 20%;
-    margin-right: 20%;
+    text-align: center;
 }
 
 .titolone {
     font-size: 30px;
+    margin-right: 20%;
 }
 
 .column {
@@ -367,9 +367,14 @@ h6 {
     margin-right: 5%;
 }
 
+.titoloh6 {
+    text-align: left;
+}
+
 .testo {
     margin-top: 15%;
     margin-bottom: 15px;
+    text-align: left;
 }
 
 .titolone {
@@ -381,4 +386,101 @@ h6 {
     width: 100%;
     margin-top: 30px;
     margin-bottom: 20px;
+}
+
+/* TODO tag sesta sezione main */
+
+
+
+/* TODO classi qsesta sezione main */
+
+.mainsei {
+    display: inline-block;
+}
+
+.biggerfont {
+    font-size: 35px;
+    margin-left: 17%;
+}
+
+.top {
+    margin-top: 10%;
+}
+
+.bottom {
+    margin-bottom: 2%;
+}
+
+.clienti {
+    color: #0061ff;
+    margin-left: 17%;
+}
+
+.squares {
+    width: 100%;
+    height: 50vw;
+    margin-top: 5%;
+}
+.bigsquare {
+    float: left;
+    height: 25vw;
+    width: 25%;    
+    margin: auto;
+}
+
+.biggersquare {
+    float: left; 
+    width: calc(100% - 60vw);
+    height: 30vw;
+    overflow-y: auto;
+}
+
+.lilsquare {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+
+.imglogo {
+    width: 50%; 
+    filter: invert(1);
+    display: inline;
+    vertical-align: middle;
+}
+
+.bigtitolo {
+    width: 40%;
+}
+
+.one {
+   background-color: #a2d39b; 
+}
+
+.two {
+    background-color: #61082b;
+}
+
+.three {
+    background-color: #0093ce;
+}
+
+.four {
+    background-color: #ff1c1c;
+}
+
+.five {
+    background-color: #d5001f;
+}
+
+.six {
+    background-color: #b4d0e7;
+}
+
+.seven {
+    background-color: #0d2481;
+}
+
+
+.eight {
+    background-color: #ffd830;
 }
